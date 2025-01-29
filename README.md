@@ -11,6 +11,7 @@ aptitude  started
 lec 1: fraction and decimal completed
 React  basics
 module 2 completed
-module 3 going on
+module 3 completed
+
 
 
