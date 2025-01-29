@@ -6,4 +6,9 @@ Module 1 completed
 
 2- Starting apti module 1  10 to 12
 
+# 29-1-25
+aptitude  started
+lec 1: fraction and decimal completed
+
+
 
