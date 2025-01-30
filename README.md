@@ -13,5 +13,12 @@ React  basics
 module 2 completed
 module 3 completed
 
+# 30-1-25
+started 50 sql question 
+solved 5 today
+
+Continuing aptitude
+
+
 
 
