@@ -20,8 +20,15 @@ solved 5 today
 Continuing aptitude
 
 # 31-1-25
+
 next 5 sql question'
 project 1 hr
+
+## 2-2-25
+sql 10 questions
+project 1 hr 
+study 1 hour
+
 study 
 
 
