@@ -29,7 +29,13 @@ sql 10 questions
 project 1 hr 
 study 1 hour
 
-study 
+# 3-2-25
+5 -6 sql ques
+
+# 4-2-25
+4 s
+ql solves easy
+project
 
 
 
