@@ -16,29 +16,31 @@ module 3 completed
 # 30-1-25
 started 50 sql question 
 solved 5 today
+completed
 
 Continuing aptitude
 
 # 31-1-25
 
-next 5 sql question'
+next 5 sql question' c
 project 1 hr
 
+
 ## 2-2-25
-sql 10 questions
+sql 10 questions c
 project 1 hr 
 study 1 hour
 
 # 3-2-25
-5 -6 sql ques
+5 -6 sql ques c
 
 # 4-2-25
 4 s
-ql solves easy
+ql solves easy c
 project
 
 #5-2-25
-sql 5 que
+sql 5 que c
 project ml dl nlp
 
 
