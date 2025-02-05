@@ -37,6 +37,9 @@ study 1 hour
 ql solves easy
 project
 
+#5-2-25
+sql 5 que
+project ml dl nlp
 
 
 
